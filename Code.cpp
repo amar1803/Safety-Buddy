@@ -96,7 +96,7 @@ String getGPSData() {
     data += c;
   }
   
-  // Add your GPS parsing logic here if needed
+  
   
   return data;
 }
